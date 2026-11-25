@@ -8,6 +8,7 @@ fgcolour = "#AA1515"
 
 window = Tk()
 window.geometry("600x300")
+window.title("Clock App")
 window.config(bg = bgcolour)
 window.resizable(False, False)
 
